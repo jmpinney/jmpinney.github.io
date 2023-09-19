@@ -1,5 +1,6 @@
 ---
 layout: post
+title: The Ghost in the Wires: AI and the Black Box Problem
 ---
 
 As a child, I saw the movie “I, Robot,” and it left me wondering what consciousness really was — could a machine really think, or act, or feel on its own? Could humans really ever create an artificial intelligence that could be truly conscious? And how was it that consciousness itself existed in humans?
