@@ -59,7 +59,7 @@ Make sure docker is installed correctly with sudo docker run hello-world.
 
 You should get output that looks like this:
 
-![image](images/QBNYuHPEr5cyU_r_QTfxtw.webp)
+![image](images/QBNYuHPEr5cyU_r_QTfxtw.webp)image{:class="img-responsive"}
 **Making sure docker works by pulling a hello world image down**
 
 Install Nginx Proxy Manager
@@ -117,7 +117,7 @@ Save with ctrl + x and run `docker-compose up -d` to start the container. Go to 
 
 Voila!
 
-![image](images/KOA8HObseSkTGLWZupZBmQ.webp)
+![image](images/KOA8HObseSkTGLWZupZBmQ.webp)image{:class="img-responsive"}
 
 Log in using the default credentials admin@example.com and password "changeme" and it will prompt you to create new credentials. We will come back to this after installing Wordpress.
 
@@ -172,7 +172,7 @@ Final Steps
 
 Head back into nginx proxy manager, login and head to hosts < proxy hosts < add proxy host. Add your domain name, the ip of your server and the port we set up earlier. You'd do the same thing for each subsequent Wordpress instance as well, if hosting multiple.
 
-![image](images/NpksWVRlREZmyED18z_uxg.webp)
+![image](images/NpksWVRlREZmyED18z_uxg.webp)image{:class="img-responsive"}
 
 Then go to the SSL tab, and request a new SSL certificate. And we're done! Easy peasy.
 
