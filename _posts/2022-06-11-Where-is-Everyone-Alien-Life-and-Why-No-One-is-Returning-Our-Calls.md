@@ -1,3 +1,8 @@
+---
+layout: post
+title: Where is Everyone? Alien Life and Why No One is Returning Our Calls
+---
+
 Humanity has long gazed into the sky, imagining the heavens, canals on Mars or cities on Venus. Especially now we focus much of our attention on it, telescopes pointed into space, ostensibly for the purpose of furthering science, but the real reason we are looking through the lens, is we are anxious to see how far the darkness goes. Are we alone? Is anyone out there? Discovering extraterrestrial life could be terrifying, but by far more terrifying would be being alone. Of the innumerable stars in the universe, someone else must be out there. Right?
 
 By now everyone knows the Drake equation, which says that life in the universe should be fairly commonplace. The equation has its problems and is based on widely conjectural values but still; in a universe of basically (for our purposes) infinite size, you’d think there’d be someone else around, or radio signals we could intercept or something. The scale of the universe and probability alone suggests that.
