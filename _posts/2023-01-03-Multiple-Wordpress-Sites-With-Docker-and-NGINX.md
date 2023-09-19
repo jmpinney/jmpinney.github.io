@@ -59,7 +59,7 @@ Make sure docker is installed correctly with sudo docker run hello-world.
 
 You should get output that looks like this:
 
-![image]/(images/QBNYuHPEr5cyU_r_QTfxtw.webp){:class="img-responsive"}
+![image](/images/QBNYuHPEr5cyU_r_QTfxtw.webp){:class="img-responsive"}
 **Making sure docker works by pulling a hello world image down**
 
 Install Nginx Proxy Manager
