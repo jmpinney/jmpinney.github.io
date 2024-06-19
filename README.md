@@ -1,0 +1,1 @@
+Personal blog, posts are mirrored to Medium (https://medium.com/@jmpinney). I am not interested in advertising or trying to work SEO magic to get people to read my blog, so medium is helpful in getting an audience.
