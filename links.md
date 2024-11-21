@@ -13,6 +13,7 @@ a collection of articles and websites i found interesting
 [Chesterton’s Fence: A Lesson in Thinking](https://fs.blog/chestertons-fence/)
 
 [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet) (This whole blog is incredibly interesting!)
+
 [South Pole Electrical Infrastructure](https://brr.fyi/posts/south-pole-electrical-infrastructure)
 
 [How to Recover From Microservices](https://world.hey.com/dhh/how-to-recover-from-microservices-ce3803cc)
