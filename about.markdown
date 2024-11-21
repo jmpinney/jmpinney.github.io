@@ -44,12 +44,12 @@ Quotes i enjoy:
 - Jamie Zawinski
 
 “The greatest shortcoming of the human race is our inability to understand the exponential function."
-— Albert Allen Bartlett
+- Albert Allen Bartlett
 
-"You are an aperture through which the universe is looking and exploring itself" 
+"You are an aperture through which the universe is looking and exploring itself." 
 - Alan Watts
 
-"I would rather have questions that can't be answered than answers that can't be questioned" 
+"I would rather have questions that can't be answered than answers that can't be questioned." 
 - Richard Feynman 
 
 "Nothing in the world can take the place of Persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Education will not; the world is full of educated derelicts. Persistence and Determination alone are omnipotent. The slogan “Press On” has solved and will always solve the problems of the human race."
