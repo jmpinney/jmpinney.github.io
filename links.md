@@ -6,7 +6,7 @@ permalink: /links/
 
 a collection of articles and websites i found interesting
 
-[Opinion: The unspoken truth about managing geeks]([https://www.google.com](https://www.computerworld.com/article/1555366/opinion-the-unspoken-truth-about-managing-geeks.html?utm_source=pocket_shared)
+[Opinion: The unspoken truth about managing geeks](https://www.computerworld.com/article/1555366/opinion-the-unspoken-truth-about-managing-geeks.html?utm_source=pocket_shared)
 
 [Before you buy a domain name, first check to see if it's haunted](https://www.bryanbraun.com/2024/10/25/before-you-buy-a-domain-name-first-check-to-see-if-its-haunted/?utm_source=pocket_shared)
 
