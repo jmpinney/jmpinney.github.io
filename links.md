@@ -22,4 +22,4 @@ a collection of articles and websites i found interesting
 
 [A Long Bet on Link Rot is Resolved, but Questions About the Durability of the Web Still Remain](https://longnow.org/ideas/a-long-bet-on-link-rot-is-resolved-but-questions-about-the-durability-of-the-web-still-remain/)
 
-[The Next Power Plant is on the Roof and in the Basement](https://www.newyorker.com/news/daily-comment/the-next-power-plant-is-on-the-roof-and-in-the-basement)
+[The Premium Mediocre Life of Maya Millennial](https://www.ribbonfarm.com/2017/08/17/the-premium-mediocre-life-of-maya-millennial/)
