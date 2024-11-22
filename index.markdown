@@ -4,3 +4,5 @@
 layout: home
 ---
 <p> systems engineer | non-aspirational author | failure enthuisiast </p>
+<p> Posts on this blog are mirrored to <a href="https://medium.com/@jmpinney">medium</a></p>
+
