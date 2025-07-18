@@ -27,7 +27,7 @@ url: "https://jmpinney.github.io" # the base hostname & protocol for your site, 
 github_username: jmpinney
 
 # Build settings
-theme: jekyll-theme-quattle
+remote_theme: jekyll-theme-quattle
 
 # Exclude from processing.
 # The following items will not be processed, by default.
