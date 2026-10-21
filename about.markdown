@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I’m a systems engineer by trade, a molecular biologist by education and a serial dilettante. Online personality tests tell me I’m an INTP and an enneagram 5w4, if you put stock into that sort of thing - though a buzzfeed quiz I took says that if I was a cake, I would be tiramasu. Make of that what you will.
+I’m a systems engineer by trade, a molecular biologist by education and a serial dilettante. Online personality tests tell me I’m an INTP and an enneagram 5w4, if you put stock into that sort of thing - though a buzzfeed quiz I took says that if I was a cake, I would be tiramisu. Make of that what you will.
 
 Professionally, I'm interested in infrastructure. Designing, troubleshooting, maintaining, and necromancing infrastructure back from the dead. call it systems engineering or site reliability engineering or dev ops, i don't care. i spend hours googling esoteric errors, banging my head into my keyboard only to realize i've forgotten a semi-colon somewhere and for some reason i love it.
 
@@ -27,7 +27,7 @@ Things I do for fun:
 * accumulate random skills with varying degrees of success
 * write. I recently finished a mystery novel that i'm shopping around to agents, and I'll very occasionally update "my blog"
 * larp as a contractor and attempt various DIYs around the house
-* restore and fix garbage. last project was a 79' CX500 i got for $80 and brought back from the dead
+* restore and fix garbage. last project was a '79 CX500 i got for $80 and brought back from the dead
 * collect vintage & failed company swag. Stuff from companies like Silicon Graphics, Sun Microsystems would be super cool if anyone wants to send me any.
 * rot on the couch as the soul crushing reality of existence sets in
 

@@ -30,7 +30,7 @@ Happily, I think the rest of the scenarios are far more probable, and the truth 
 
 In scenario one, microbial life is plentiful. We know that specialized microbes (extremophiles) can survive and thrive in just about any environment on Earth whether that environment has scorching highs, frigid lows, corrosive acids, caustic bases, or crunching pressures. The toughest microbe we know is _Deinococcus radiodurans_ which survived the vacuum of space for 3 years on the IIS, resistant to extreme cold, ionizing radiation, the vacuum of space, desiccation and is probably in the .01% of germs that hand sanitizer does not kill. It’s not hard to imagine similar organisms existing beneath the ground on Mars or swimming in the seas of Europa.
 
-<img src="https://miro.medium.com/v2/resize:fit:1200/0*G0taPiEcg3WJZejs.jpg" alt="" class="m yj akd c" style="box-sizing: inherit; vertical-align: middle; background-color: rgb(255, 255, 255); width: 600px; max-width: 100%; height: auto;" width="600" height="400">
+![](https://miro.medium.com/v2/resize:fit:1200/0*G0taPiEcg3WJZejs.jpg)
 
 _Deinococcus radiodurans, probably_
 
